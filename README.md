@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AI-ArrowTech/assets/main/logo-arrowtech.png" alt="AI-ArrowTech Logo" width="140"/>
+<img src="https://github.com/AI-ArrowTech/.github/blob/main/ai-arrowtech-logo.png" alt="AI-ArrowTech Logo" width="140"/>
 
 <h1>AI-ArrowTech</h1>
 
